@@ -1,8 +1,8 @@
 
 
 - 👋 Hi, I’m @Nisha-Kanojiya
-- 👀 I’m interested in ...JAVA
-- 🌱 I’m currently learning ...ADVANCE JAVA + Frameworks
+- 👀 I’m interested in ...NodeJs, Microservices 
+- 🌱 I’m currently learning ...Blockchain 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/nisha-kanojiya-910445181
 -
